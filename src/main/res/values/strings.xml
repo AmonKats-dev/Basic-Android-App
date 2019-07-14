@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Simple Application</string>
+    <string name="about_alc">About ALC 4.0</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="country">Country:</string>
+    <string name="twitter_handle">Twitter handle:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="track">Track:</string>
+    <string name="namaara_amon">Namaara Amon</string>
+    <string name="android_track">Android</string>
+    <string name="uganda">Uganda</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="github_username">Github Username:</string>
+    <string name="email_address">amonkats8@gmail.com</string>
+    <string name="phone">+256774572835</string>
+    <string name="hub_git">#AmonKats1</string>
+</resources>
